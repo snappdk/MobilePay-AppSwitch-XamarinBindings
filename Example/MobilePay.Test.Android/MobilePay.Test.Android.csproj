@@ -67,7 +67,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\..\..\AppSwitch.Bindings.Droid\AppSwitch.Bindings.Droid.csproj">
+    <ProjectReference Include="..\..\AppSwitch.Bindings.Droid\AppSwitch.Bindings.Droid.csproj">
       <Project>{D4EB462C-23F4-4636-B783-A7D40A446CD8}</Project>
       <Name>AppSwitch.Bindings.Droid</Name>
     </ProjectReference>

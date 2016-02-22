@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{8D80
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePay.Test.iOS", "Example\MobilePay.Test.iOS\MobilePay.Test.iOS.csproj", "{DF592904-DCE2-4FF9-9864-505F09E74675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePay.Test.Android", "Example\MobilePay.Test.iOS\MobilePay.Test.Android\MobilePay.Test.Android.csproj", "{CE3F6DE3-AF57-402A-95DE-6BB416E355A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePay.Test.Android", "Example\MobilePay.Test.Android\MobilePay.Test.Android.csproj", "{CE3F6DE3-AF57-402A-95DE-6BB416E355A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
