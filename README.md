@@ -1,5 +1,5 @@
 # Xamarin Bindings for MobilePay AppSwitch
-This project is Xamarin Bindings for MobilePay by Danske Bank's AppSwitch. Dansk Bank or Trifork is not responsible for thise bindings, and does not provide support in relation to this. All credit and support for the AppSwitch project itself can be found at their [MobilePay-AppSwitch-SDK Github page](https://github.com/DanskeBank/MobilePay-AppSwitch-SDK).
+This project is Xamarin Bindings for MobilePay by Danske Bank's AppSwitch. Dansk Bank or Trifork is not responsible for these bindings, and does not provide support in relation to this. All credit and support for the AppSwitch project itself can be found at their [MobilePay-AppSwitch-SDK Github page](https://github.com/DanskeBank/MobilePay-AppSwitch-SDK).
 
 The project is targeted iOS and Android and newest version of MobilePay AppSwitch (currently 1.7.0).
 
